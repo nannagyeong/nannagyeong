@@ -4,4 +4,4 @@
 |-------|-------|-------|
 |2026.01|IMBK 통계학 프로젝트 |https://www.naver.com|
 |2026.04|IMBK 머신러닝 프로젝트|https://www.google.com|
-|2026.03| 깃허브링크프로젝트|https:www.github.com/nagyeong|
+|2026.03| 깃허브링크프로젝트|https://www.github.com/nagyeong|
